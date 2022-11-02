@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b966f23-4d15-4ada-a872-52c93e552683" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getnow_playing/AssertionResultsNow_Playing.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getnow_playing/GetNow_Playing.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getnow_playing/GraphResultsNow_Playing.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getnow_playing/HttpRequestNow_Playing.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getnow_playing/ResponseAssertionBodyNow_Playing.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getnow_playing/ResponseAssertionStatusCodeNow_Playing.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getnow_playing/ViewResultsInTableNow_Playing.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getnow_playing/ViewResultsTreeNow_Playing.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getpopularmovie/AssertResultsPopularMovie.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getpopularmovie/GetPopularMovie.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getpopularmovie/GraphResultsPopularMovie.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getpopularmovie/HttpRequestPopularMovie.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getpopularmovie/ResponseBodyPopularMovie.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getpopularmovie/ResponseStatusCodePopularMovie.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getpopularmovie/ViewResultsInTablePopularMovie.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Screenshoot/Getpopularmovie/ViewResultsTreePopularMovie.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/juaracoding/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GyDssNoZpLAEanRJGDfkZvqMPw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Java/AndriYansyah_postest27/Screenshoot/Getnow_playing"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java\AndriYansyah_postest27\Screenshoot\Getnow_playing" />
+      <recent name="C:\Java\AndriYansyah_postest27\Screenshoot\Getpopularmovie" />
+      <recent name="C:\Java\AndriYansyah_postest27" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b966f23-4d15-4ada-a872-52c93e552683" name="Changes" comment="" />
+      <created>1667352141237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667352141237</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
